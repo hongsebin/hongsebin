@@ -1,2 +1,2 @@
-홍세빈 (HONG SEBIN)
+HONG SEBIN
 - Interests: React, React Native, iOS + Swift
