@@ -1,2 +1,2 @@
-HONG SEBIN
+SEBIN
 - Interests: React, React Native, iOS + Swift
