@@ -4,7 +4,7 @@
 
 
 
-#### 🤸‍♀️ Technology Stack 🤸‍♂️
+#### 🤸‍♀️ Tech Stack 🤸‍♂️
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=skyblue"/> <img src="https://img.shields.io/badge/React Native-skyblue?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift&logoColor=white"/>
 
